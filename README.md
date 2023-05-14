@@ -1,4 +1,4 @@
-# Project name: Building-Face-Attendance-in-SMEs-Human-Resource-Management-System-Based-on-AI-Framework
+# Project name: Build-Predicting-Trading-Program-based-on-Pair-Trading-Approach
 
 Data Science Lab - Room 407 - (National) Korea Maritime & Ocean University
 
