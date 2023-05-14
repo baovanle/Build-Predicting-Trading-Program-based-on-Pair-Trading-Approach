@@ -18,3 +18,6 @@ import statsmodels.api as sm
 sns.set(rc={'figure.figsize':(20,14)})
 
 !gdown 1lX9QMg5kVev-DwiQ-sZdQu9Lul3Sv4oI
+df = pd.read_csv("Master_All_data.csv")
+df["date_id"]=pd.to_datetime(df["date_id"], format="%Y%m%d")
+df.set_index('date_id', drop=True, inplace=True)
